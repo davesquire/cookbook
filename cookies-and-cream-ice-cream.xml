@@ -1,6 +1,10 @@
 <recipe>
   <ingredients>
+    <ingredient name="Oreos"/>
+    <ingredient name="Vanilla Ice Cream"/>
   </ingredients>
   <directions>
+    <step name="Crush">Crush the Oreos into small pieces.</step>
+    <step name="Mix">Mix the Oreo peices with the ice cream</step>
   </directions>
 </recipe>
