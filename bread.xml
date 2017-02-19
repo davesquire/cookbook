@@ -1,10 +1,13 @@
 <recipe>
   <ingredients>
     <ingredient name="Flour"/>
+    <ingredient name="Salt"/>
+    <ingredient name="Yeast"/>
     <ingredient name="Water"/>
   </ingredients>
   <directions>
-    <step name="Sift">Sift the flour with the other dry ingredients.</step>
-    <step name="Mix">Mix in the water.</step>
+    <step name="Sift">Sift the flour with the salt.</step>
+    <step name="Stir">Stir the yeast into the water.</step>
+    <step name="Mix">Mix together the dry ingredients and the yeast-water solution.</step>
   </directions>
 </recipe>
