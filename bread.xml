@@ -1,0 +1,10 @@
+<recipe>
+  <ingredients>
+    <ingredient name="Flour"/>
+    <ingredient name="Water"/>
+  </ingredients>
+  <directions>
+    <step name="Sift">Sift the flour with the other dry ingredients.</step>
+    <step name="Mix">Mix in the water.</step>
+  </directions>
+</recipe>
