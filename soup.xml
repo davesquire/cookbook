@@ -1,0 +1,12 @@
+<recipe>
+  <ingredients>
+    <ingredient name="Cabbage"/>
+    <ingredient name="Carrots"/>
+    <ingredient name="Tomatoes"/>
+    <ingredient name="Water"/>
+  </ingredients>
+  <directions>
+    <step name="Dice">Dice vegetables.</step>
+    <step name="Simmer">Simmer over low heat until vegetables are tender.</step>
+  </directions>
+</recipe>
